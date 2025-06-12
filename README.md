@@ -4,7 +4,6 @@ This is a mini JavaScript project I created to test some of my learnings. This i
 
 ## Features
 
-- Implements DOM knowledge
 - Takes a color (favorite) as input
 - Displays the color as text
 - Changes the background color to the input color
