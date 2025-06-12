@@ -1,6 +1,6 @@
 # Fav-Color
 
-This is a mini JavaScript project I created to test some of my learnings. This is in no form a big/exciting project, but a small learning project for document my progress learning WebDev.
+This is a mini JavaScript project I created to test some of my learnings. This is in no form a big/exciting project, but a small learning project to document my progress learning WebDev.
 
 ## Features
 
